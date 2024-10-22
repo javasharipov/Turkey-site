@@ -1037,6 +1037,10 @@ video {
   .max-md\:text-\[40px\] {
     font-size: 40px;
   }
+
+  .max-md\:text-\[48px\] {
+    font-size: 48px;
+  }
 }
 
 @media not all and (min-width: 640px) {
